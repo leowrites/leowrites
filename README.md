@@ -1,4 +1,4 @@
-<p align="left">Welcome to my page! I'm Leo and I'm a third year Computer Science student at the University of Toronto</p>
+<p align="left">Welcome to my page! I'm Leo and I'm a fourth year Computer Science student at the University of Toronto</p>
 
 ###
 
